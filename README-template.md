@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Peolite1/Qr_code.git)
+- Live Site URL: [Add live site URL here](https://peolite1.github.io/Qr_code/)
 
 ## My process
 
@@ -59,8 +59,6 @@ I focuse more on my webdevelopmet, even though its been long since i visited it,
 - [Example resource 1](https://www.coursera.org/) - This helped me for my foundations in how to use html and css effectively. I really liked their pattern of teaching and will use it going forward.
 
 ## Author
-
-- Website - [Okorie PraiseGod . E.](https://www.your-site.com)
 - Frontend Mentor - [@Peolite1](https://www.frontendmentor.io/profile/Peolite1)
 - Twitter - [@prai79461](https://x.com/prai79461)
 
