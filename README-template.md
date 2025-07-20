@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Peolite1/Qr_code.git)
-- Live Site URL: [Add live site URL here](https://peolite1.github.io/Qr_code/)
+- Solution URL: [Solution](https://github.com/Peolite1/Qr_code.git)
+- Live Site URL: [Qr code](https://peolite1.github.io/Qr_code/)
 
 ## My process
 
